@@ -1,6 +1,15 @@
+---
+doc-id: RGA-PPL-TRN-301C.2
+title: Claude Setup Kit 2 Instructions
+version: 2.3
+status: issued
+edition: Claude
+classification: public
+scheme: vaults/cre/builds/document-control/scheme.md
+---
 # Claude Setup Instructions
 
-Version 2.2.0 · 2026-09-06
+Version 2.3 · 2026-09-06
 Prepared by RG Advisors
 
 **Document 2 of 3.** Run `self-interview-claude.md` first if you have not; this file assumes you have.

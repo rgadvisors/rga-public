@@ -1,6 +1,15 @@
+---
+doc-id: RGA-PPL-TRN-301C.3
+title: Claude Setup Kit 3 Tune-Up
+version: 2.3
+status: issued
+edition: Claude
+classification: public
+scheme: vaults/cre/builds/document-control/scheme.md
+---
 # Instruction Tune-Up, Claude edition
 
-Version 2.2.0 · 2026-09-06
+Version 2.3 · 2026-09-06
 Prepared by RG Advisors
 
 **Document 3 of 3.** You will not need this until about a month after `self-interview-claude.md`.

@@ -1,4 +1,15 @@
+---
+doc-id: RGA-PPL-TRN-002
+title: Self-Interview Kit Public Index
+version: 2.3
+status: issued
+classification: public
+scheme: rga-core/sop/00-library-and-site-framework.md
+---
+
 # Self-interview
+
+Version 2.3 · 2026-09-06
 
 A setup kit for one person and their AI tool. You paste one prompt into a new conversation, answer about a dozen questions (most of them pick-an-option), and it writes your instruction files for you: how the tool should talk to you, who you are and how your business works, and exactly where each file goes. About thirty minutes, in one sitting.
 
@@ -10,7 +21,7 @@ One edition per vendor, three documents each, numbered in the order you use them
 
 | Edition | Files | Version |
 |---|---|---|
-| Claude (claude.ai, the desktop app, Claude Code) | `self-interview-claude.md`, `instructions-claude.md`, `tune-up-claude.md` | 2.2.0, published 2026-09-06 |
+| Claude (claude.ai, the desktop app, Claude Code) | `self-interview-claude.md`, `instructions-claude.md`, `tune-up-claude.md` | 2.3, published 2026-09-06 |
 
 ## The order
 
