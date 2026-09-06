@@ -1,11 +1,15 @@
 # Claude Setup Playbook
 
-Version 2.0.0 · 2026-09-05
+Version 2.1.0 · 2026-09-06
 Prepared by RG Advisors
 
 This is the order to set up Claude so it is actually useful, and the reasoning behind the order. It goes with `self-interview-claude.md`, which does most of the work for you, and `tune-up-claude.md`, which you will not need for a month.
 
-**If you only read one paragraph:** open Claude, start a new conversation outside any project, paste in the whole of `self-interview-claude.md`, and answer its questions. About thirty minutes. It fixes one privacy setting with you, asks what the tool is for in your work, and writes your instruction files. Come back here afterward for stages 3 to 6, which are the part the interview cannot do for you.
+**Run `self-interview-claude.md` first. This file is second.**
+
+If you have not done the interview yet, stop and go do it: open Claude, click **New chat**, make sure you are not inside a project, and paste in everything below the asterisk line of that file. About thirty minutes. It fixes one privacy setting with you, asks what the tool is for in your work, and writes your instruction files.
+
+Then come back here. Stages 1 and 2 below describe what the interview already handed you, so you can recognize what you are looking at and edit it for years. Stages 3 through 6 are the part the interview cannot do for you, and they are the reason this file exists.
 
 Under two hours, and you can do all of it today. One sitting, start to finish.
 
@@ -113,7 +117,7 @@ Target length: about 150 lines. If you are past 250, the fix is almost never tri
 
 ## Stage 3: projects
 
-A project is a container with its own instructions and its own attached documents. It is the right unit for a durable workstream, not for a task.
+A project is a workspace with its own instructions and its own attached documents. It is the right unit for a durable workstream, not for a task.
 
 - **One project per thing that has a lifespan of months.** A deal. A property. A recurring report. A function of the business.
 - **Not one project per question.** That is what a normal conversation is for.
@@ -130,7 +134,7 @@ Only now. Instructions before access, because a connected tool that does not kno
 
 - **Connect from a normal user account, never an administrator account.** These tools generally see exactly what the signed-in person sees. If the signed-in person is an admin, that is a much larger surface with no corresponding benefit.
 - **Least privilege is not a slogan here, it is the entire security model.** If the permission structure in your file system is already correct, connecting AI adds no new exposure. If it is not, AI does not create the problem, it makes the problem legible by surfacing files nobody had browsed to in three years.
-- **Anything that must never be reachable goes in a separate container, not a subfolder.** A subfolder depends on someone remembering a rule. A separate site or drive that the connected account is not a member of depends on nothing.
+- **Anything that must never be reachable belongs in a separate site, drive, or account of its own, not in a folder inside one you already use.** The test is where permission comes from: if access to a thing comes from being added to that thing, it is a real boundary; if access comes from being added to something above it, it is a folder with an exception written on it. A folder you have made private is an exception someone configured, and exceptions get undone during a cleanup, by a file moved up one level, or by adding one person to the parent for an unrelated reason. Nothing announces it when that happens. A separate site or drive the connected account was never added to has no exception to undo. Most platforms grant access at the site, shared drive, teamspace, mailbox, or repository level, so that is usually the line, but several also allow folder-level permissions, which is exactly the trap. Apply the test rather than trusting the label.
 - **Test the boundary once, deliberately.** Ask for something it should not be able to see. Confirm it cannot. Write down the date you confirmed it.
 
 ---
@@ -179,7 +183,7 @@ This covers one person and their working context. It does not cover firm-wide fi
 
 ## Run the interview
 
-Open a new Claude conversation, outside any project. Paste the entire contents of `self-interview-claude.md`. Nothing to prepare, nothing to look up first.
+If you have somehow reached the end without running it, do that now. Open Claude, click **New chat**, stay outside any project, and paste in everything below the asterisk line of `self-interview-claude.md`. Nothing to prepare, nothing to look up first.
 
 Most of what it asks comes as options you pick. The handful of open questions are the ones only you can answer, and talking through them out loud is fine, dictation included. It will read past the run-ons and pull out what matters. You are not drafting anything; it does the writing.
 

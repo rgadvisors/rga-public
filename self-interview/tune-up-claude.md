@@ -1,6 +1,6 @@
 # Instruction Tune-Up, Claude edition
 
-Version 2.0.0 · 2026-09-05
+Version 2.1.0 · 2026-09-06
 Prepared by RG Advisors
 
 **How to use this file:** you will not need this on day one. You will need it in about a month, once you have been correcting Claude on the same things repeatedly. Open a new Claude conversation, paste everything below the line, and have your context file handy. About 20 minutes.

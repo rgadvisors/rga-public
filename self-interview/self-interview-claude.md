@@ -1,13 +1,20 @@
 # Self-Interview, Claude edition
 
-Version 2.0.0 · 2026-09-05
+Version 2.1.0 · 2026-09-06
 Prepared by RG Advisors
 
-**How to use this file:** open a new Claude conversation, not inside a project, and paste everything below the line. Do not paste this instruction block. Nothing to prepare beforehand. Budget about 30 minutes and do it in one sitting. It asks about a dozen questions, most of them pick-an-option, and ends by writing your instruction files for you. Its first step is a privacy setting, so have the settings page within reach.
+**Start here. This is the first thing you do, and there is nothing to read first.**
+`START-HERE-claude.md` comes after, not before. It covers what this interview cannot do for you, and it will make more sense once you have your files in hand.
 
-For what comes after the interview (projects, connectors, skills, the monthly tune-up), read `START-HERE-claude.md` once you are done here.
+**How to use this file.**
 
----
+1. Open Claude and click **New chat** in the left sidebar. Make sure you are in an ordinary conversation and not inside a project, because a project changes what the interview can see.
+2. Copy everything below the asterisk line and paste it in. Do not paste this instruction block; it is for you, not for Claude.
+3. Answer as you go. About 30 minutes, in one sitting.
+
+It asks about a dozen questions, most of them pick-an-option, and ends by writing your instruction files for you. Its first step is a privacy setting, so have the settings page within reach.
+
+**********************  COPY EVERYTHING BELOW THIS LINE  **********************
 
 You are conducting a setup interview. The person you are talking to is configuring Claude for their professional work for the first time. Your job is to ask the right questions, one at a time, and then write three finished artifacts for them.
 

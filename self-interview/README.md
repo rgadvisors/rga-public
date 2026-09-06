@@ -10,11 +10,13 @@ One edition per vendor. The three files in an edition share a version and publis
 
 | Edition | Files | Version |
 |---|---|---|
-| Claude (claude.ai, the desktop app, Claude Code) | `self-interview-claude.md`, `START-HERE-claude.md`, `tune-up-claude.md` | 2.0.0, published 2026-09-05 |
+| Claude (claude.ai, the desktop app, Claude Code) | `self-interview-claude.md`, `START-HERE-claude.md`, `tune-up-claude.md` | 2.1.0, published 2026-09-06 |
 
 ## The order
 
-1. Open a new conversation, outside any project, and paste in the whole of `self-interview-<edition>.md` below its dividing line. Its first step is a privacy setting, so have the settings page within reach. Answer as you go. It stops once to summarize what it heard before writing anything; read that part properly, because correcting it there costs one sentence.
+**Start with the interview prompt. Nothing needs reading first, and the playbook is step 3, not step 1.**
+
+1. Open a new conversation (click **New chat**), stay outside any project, and paste in everything below the asterisk line of `self-interview-<edition>.md`. Its first step is a privacy setting, so have the settings page within reach. Answer as you go. It stops once to summarize what it heard before writing anything; read that part properly, because correcting it there costs one sentence.
 2. Install the three things it hands you, where its deployment card says. Then run its test: ask a fresh conversation something you asked last week. The answer should be visibly better.
 3. Read `START-HERE-<edition>.md` once, for the stages the interview cannot do for you: projects, connectors, skills, and the maintenance loop.
 4. In about a month, paste `tune-up-<edition>.md` into a new conversation with your context file handy. It turns the corrections you have been making into rules, cuts what has gone dead, and hands back the revised file.
