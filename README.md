@@ -10,13 +10,16 @@ Evolve. Site: https://rgadvisors.ai
 
 ## What is here
 
-Nothing yet beyond this file and the licenses. The first publication is the web design
-system research-and-plan prompt, which lands here after its first full run has finished
-and been reviewed. Each item added gets a row in the table below with its version and
-the date it was published.
+Each item gets a row below with its version and the date it was published. A revision is
+a new version and a new row; published files are not edited in place.
 
 | Item | What it is | Version | Published |
 |---|---|---|---|
+| [Self-interview, Claude edition](self-interview/) | A prompt you paste into a new Claude conversation that interviews you and writes your instruction files, with the setup playbook and the month-two tune-up | 2.0.0 | 2026-09-05 |
+
+Next: the web design system research-and-plan prompt, after its first full run has
+finished and been reviewed. Editions of the self-interview for other vendors land as
+each finishes its first run.
 
 ## How content gets here
 
