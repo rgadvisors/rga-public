@@ -1,10 +1,11 @@
 # Self-Interview, Claude edition
 
-Version 2.1.0 · 2026-09-06
+Version 2.2.0 · 2026-09-06
 Prepared by RG Advisors
 
-**Start here. This is the first thing you do, and there is nothing to read first.**
-`START-HERE-claude.md` comes after, not before. It covers what this interview cannot do for you, and it will make more sense once you have your files in hand.
+**Document 1 of 3. Start here.** Then `instructions-claude.md`, then `tune-up-claude.md` in about a month.
+
+There is nothing to read before this one.
 
 **How to use this file.**
 

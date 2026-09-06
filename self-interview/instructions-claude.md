@@ -1,15 +1,15 @@
-# Claude Setup Playbook
+# Claude Setup Instructions
 
-Version 2.1.0 · 2026-09-06
+Version 2.2.0 · 2026-09-06
 Prepared by RG Advisors
 
-This is the order to set up Claude so it is actually useful, and the reasoning behind the order. It goes with `self-interview-claude.md`, which does most of the work for you, and `tune-up-claude.md`, which you will not need for a month.
+**Document 2 of 3.** Run `self-interview-claude.md` first if you have not; this file assumes you have.
 
-**Run `self-interview-claude.md` first. This file is second.**
+This is the order to set up Claude so it is actually useful, and the reasoning behind the order.
 
-If you have not done the interview yet, stop and go do it: open Claude, click **New chat**, make sure you are not inside a project, and paste in everything below the asterisk line of that file. About thirty minutes. It fixes one privacy setting with you, asks what the tool is for in your work, and writes your instruction files.
+If you have not run the interview yet, stop and go do it: open Claude, click **New chat**, make sure you are not inside a project, and paste in everything below the asterisk line of that file. About thirty minutes. It fixes one privacy setting with you, asks what the tool is for in your work, and writes your instruction files.
 
-Then come back here. Stages 1 and 2 below describe what the interview already handed you, so you can recognize what you are looking at and edit it for years. Stages 3 through 6 are the part the interview cannot do for you, and they are the reason this file exists.
+Then come back. Stages 1 and 2 below describe what the interview already handed you, so you can recognize what you are looking at and edit it for years. Stages 3 through 6 are the part the interview cannot do for you, and they are why this file exists.
 
 Under two hours, and you can do all of it today. One sitting, start to finish.
 

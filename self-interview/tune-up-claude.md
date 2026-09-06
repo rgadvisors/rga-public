@@ -1,13 +1,15 @@
 # Instruction Tune-Up, Claude edition
 
-Version 2.1.0 · 2026-09-06
+Version 2.2.0 · 2026-09-06
 Prepared by RG Advisors
 
-**How to use this file:** you will not need this on day one. You will need it in about a month, once you have been correcting Claude on the same things repeatedly. Open a new Claude conversation, paste everything below the line, and have your context file handy. About 20 minutes.
+**Document 3 of 3.** You will not need this until about a month after `self-interview-claude.md`.
+
+**How to use this file.** You will not need it on day one. You will need it in about a month, once you have been correcting Claude on the same things repeatedly. Open Claude, click **New chat**, paste in everything below the asterisk line, and have your context file handy. About 20 minutes.
 
 Run it monthly for the first quarter, then quarterly. This is where a good instruction file actually comes from. Nobody writes one on day one, because on day one you do not yet know what gets misread.
 
----
+**********************  COPY EVERYTHING BELOW THIS LINE  **********************
 
 You are running an instruction tune-up. The person you are talking to wrote a context file for Claude a while back, has been using it, and has been correcting the same things over and over. Your job is to get those corrections out of their head, turn them into properly written rules, get their approval, and hand back a revised file.
 
